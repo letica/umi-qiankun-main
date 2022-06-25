@@ -7,10 +7,10 @@ export default function Layout() {
     <div className={styles.navs}>
       <ul>
         <li>
-          <Link to="/">Home</Link>
+          <Link to="/umi-qiakun-sub1">sub1</Link>
         </li>
         <li>
-          <Link to="/docs">Docs</Link>
+          <Link to="/umi-qiakun-sub2">sub2</Link>
         </li>
         <li>
           <a href="https://github.com/umijs/umi">Github</a>
